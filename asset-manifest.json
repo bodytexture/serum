@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/bodytexture/serum/static/css/main.370dcbf2.chunk.css",
-    "main.js": "/bodytexture/serum/static/js/main.f85fbbb5.chunk.js",
-    "main.js.map": "/bodytexture/serum/static/js/main.f85fbbb5.chunk.js.map",
-    "runtime-main.js": "/bodytexture/serum/static/js/runtime-main.1cc786fa.js",
-    "runtime-main.js.map": "/bodytexture/serum/static/js/runtime-main.1cc786fa.js.map",
-    "static/css/2.bede2b44.chunk.css": "/bodytexture/serum/static/css/2.bede2b44.chunk.css",
-    "static/js/2.19a13d50.chunk.js": "/bodytexture/serum/static/js/2.19a13d50.chunk.js",
-    "static/js/2.19a13d50.chunk.js.map": "/bodytexture/serum/static/js/2.19a13d50.chunk.js.map",
-    "index.html": "/bodytexture/serum/index.html",
-    "precache-manifest.3bf9a5e09d32c881f21f228214f8f32c.js": "/bodytexture/serum/precache-manifest.3bf9a5e09d32c881f21f228214f8f32c.js",
-    "service-worker.js": "/bodytexture/serum/service-worker.js",
-    "static/css/2.bede2b44.chunk.css.map": "/bodytexture/serum/static/css/2.bede2b44.chunk.css.map",
-    "static/css/main.370dcbf2.chunk.css.map": "/bodytexture/serum/static/css/main.370dcbf2.chunk.css.map",
-    "static/js/2.19a13d50.chunk.js.LICENSE.txt": "/bodytexture/serum/static/js/2.19a13d50.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/bodytexture/serum/static/media/logo.49174c73.svg"
+    "main.css": "/superserum/static/css/main.370dcbf2.chunk.css",
+    "main.js": "/superserum/static/js/main.8fce4d40.chunk.js",
+    "main.js.map": "/superserum/static/js/main.8fce4d40.chunk.js.map",
+    "runtime-main.js": "/superserum/static/js/runtime-main.e7a09621.js",
+    "runtime-main.js.map": "/superserum/static/js/runtime-main.e7a09621.js.map",
+    "static/css/2.bede2b44.chunk.css": "/superserum/static/css/2.bede2b44.chunk.css",
+    "static/js/2.22888748.chunk.js": "/superserum/static/js/2.22888748.chunk.js",
+    "static/js/2.22888748.chunk.js.map": "/superserum/static/js/2.22888748.chunk.js.map",
+    "index.html": "/superserum/index.html",
+    "precache-manifest.61077344fed6df06e2083a456818c01c.js": "/superserum/precache-manifest.61077344fed6df06e2083a456818c01c.js",
+    "service-worker.js": "/superserum/service-worker.js",
+    "static/css/2.bede2b44.chunk.css.map": "/superserum/static/css/2.bede2b44.chunk.css.map",
+    "static/css/main.370dcbf2.chunk.css.map": "/superserum/static/css/main.370dcbf2.chunk.css.map",
+    "static/js/2.22888748.chunk.js.LICENSE.txt": "/superserum/static/js/2.22888748.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/superserum/static/media/logo.49174c73.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1cc786fa.js",
+    "static/js/runtime-main.e7a09621.js",
     "static/css/2.bede2b44.chunk.css",
-    "static/js/2.19a13d50.chunk.js",
+    "static/js/2.22888748.chunk.js",
     "static/css/main.370dcbf2.chunk.css",
-    "static/js/main.f85fbbb5.chunk.js"
+    "static/js/main.8fce4d40.chunk.js"
   ]
 }
